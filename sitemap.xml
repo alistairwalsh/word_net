@@ -12,6 +12,16 @@
     </url>
     
     <url>
+        <loc>http://flatfreeze.com/blog.html</loc>
+        <lastmod>2014-02-13</lastmod>
+    </url>
+    
+    <url>
+        <loc>http://flatfreeze.com/blog/recent.atom</loc>
+        <lastmod>2014-02-15</lastmod>
+    </url>
+    
+    <url>
         <loc>http://flatfreeze.com/blog/example_blog_posting.html</loc>
         <lastmod>2014-02-14</lastmod>
     </url>
