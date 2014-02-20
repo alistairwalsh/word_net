@@ -22,12 +22,22 @@
     </url>
     
     <url>
+        <loc>http://flatfreeze.com/blog/this_is_the_oldest.html</loc>
+        <lastmod>2013-02-11</lastmod>
+    </url>
+    
+    <url>
         <loc>http://flatfreeze.com/blog/example_blog_posting.html</loc>
         <lastmod>2014-02-14</lastmod>
     </url>
     
     <url>
-        <loc>http://flatfreeze.com/blog/second_lorem_ipsum.html</loc>
+        <loc>http://flatfreeze.com/blog/something_something.html</loc>
+        <lastmod>2014-02-17</lastmod>
+    </url>
+    
+    <url>
+        <loc>http://flatfreeze.com/blog/second_lorem_ipsum copy.html</loc>
         <lastmod>2014-02-15</lastmod>
     </url>
     

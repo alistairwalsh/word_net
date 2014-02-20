@@ -2,16 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Recent Blog Postings</title>
   <id>http://flatfreeze.com/blog/atom.xml</id>
-  <updated>2014-02-15T00:00:00Z</updated>
+  <updated>2014-02-17T00:00:00Z</updated>
   <link href="http://flatfreeze.com" />
   <link href="http://flatfreeze.com/blog/atom.xml" rel="self" />
   <generator>Werkzeug</generator>
   <entry xml:base="http://flatfreeze.com/blog/atom.xml">
+    <title type="text">Another random blog post</title>
+    <id>http://flatfreeze.comblog/something_something.html</id>
+    <updated>2014-02-17T00:00:00Z</updated>
+    <published>2014-02-17T00:00:00Z</published>
+    <link href="http://flatfreeze.comblog/something_something.html" />
+    <author>
+      <name>Mark Twain</name>
+    </author>
+    <summary type="html">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vel leo turpis. Cras vulputate mattis dignissim. Aliquam eget purus purus.</summary>
+  </entry>
+  <entry xml:base="http://flatfreeze.com/blog/atom.xml">
     <title type="text">Blog post about something</title>
-    <id>http://flatfreeze.comblog/second_lorem_ipsum.html</id>
+    <id>http://flatfreeze.comblog/second_lorem_ipsum copy.html</id>
     <updated>2014-02-15T00:00:00Z</updated>
     <published>2014-02-15T00:00:00Z</published>
-    <link href="http://flatfreeze.comblog/second_lorem_ipsum.html" />
+    <link href="http://flatfreeze.comblog/second_lorem_ipsum copy.html" />
     <author>
       <name>Roy Prins</name>
     </author>
@@ -27,5 +38,16 @@
       <name>Roy Prins</name>
     </author>
     <summary type="html">This is a short summary of the example blog posting. Read it.</summary>
+  </entry>
+  <entry xml:base="http://flatfreeze.com/blog/atom.xml">
+    <title type="text">Very very old blog posting</title>
+    <id>http://flatfreeze.comblog/this_is_the_oldest.html</id>
+    <updated>2013-02-11T00:00:00Z</updated>
+    <published>2013-02-10T00:00:00Z</published>
+    <link href="http://flatfreeze.comblog/this_is_the_oldest.html" />
+    <author>
+      <name>Roy Prins</name>
+    </author>
+    <summary type="html">This blog posting should not show up among the three most recent ones.</summary>
   </entry>
 </feed>

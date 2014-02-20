@@ -3,11 +3,10 @@
 <head>
 
 
-  <title>Flatfreeze</title>
   <meta charset="utf-8">
-  
-    <meta name="description" content="Flatfreeze flattens & freezes in one go!">
-  
+  <title>Flatfreeze</title>
+  <meta name="description" content="Flatfreeze flattens and freezes in one go!">
+  <link rel='stylesheet' href="static/css/main.css">
 
 <link href="blog/atom.xml"
       rel="alternate"
@@ -16,27 +15,52 @@
 
 </head>
 <body>
-  
-  
-    <div>
-      <a href="blog/second_lorem_ipsum.html">
-        Blog post about something
-      </a>
-      <p>
-        This is what happens when I run out of inspiration.
-      </p>
-    </div>
-  
-    <div>
-      <a href="blog/example_blog_posting.html">
-        Example of a blog posting
-      </a>
-      <p>
-        This is a short summary of the example blog posting. Read it.
-      </p>
-    </div>
-  
-  <h3><a href="index.html">to homepage</a></h3>
+
+<div id="menu">
+  <ul>
+    <li id="link-home"><a href="index.html">Home</a></li>
+    <li id="link-blog"><a href="blog.html">Blog</a></li>
+    <li id="link-contact"><a href="contact.html">Contact</a></li>
+  </ul>
+</div>
+<h1>Blog index</h1>
+<p>These are all the published blog postings:</p>
+<div class="bloglist">
+
+  <div class="bloglistitem">
+    <a href="blog/something_something.html">
+      <div class="left">Another random blog post</div>
+      <div class="right">Mark Twain, 2014-02-17</div>
+      <p class="clearfix">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vel leo turpis. Cras vulputate mattis dignissim. Aliquam eget purus purus.</p>
+    </a>
+  </div>
+
+  <div class="bloglistitem">
+    <a href="blog/second_lorem_ipsum%20copy.html">
+      <div class="left">Blog post about something</div>
+      <div class="right">Roy Prins, 2014-02-15</div>
+      <p class="clearfix">This is what happens when I run out of inspiration.</p>
+    </a>
+  </div>
+
+  <div class="bloglistitem">
+    <a href="blog/example_blog_posting.html">
+      <div class="left">Example of a blog posting</div>
+      <div class="right">Roy Prins, 2014-02-13</div>
+      <p class="clearfix">This is a short summary of the example blog posting. Read it.</p>
+    </a>
+  </div>
+
+  <div class="bloglistitem">
+    <a href="blog/this_is_the_oldest.html">
+      <div class="left">Very very old blog posting</div>
+      <div class="right">Roy Prins, 2013-02-10</div>
+      <p class="clearfix">This blog posting should not show up among the three most recent ones.</p>
+    </a>
+  </div>
+
+</div>
+
 
 </body>
 </html>
