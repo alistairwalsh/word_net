@@ -2,62 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
-        <loc>http://snirp.nl/</loc>
+        <loc>http://flatfreeze.com/</loc>
         <lastmod>2014-02-13</lastmod>
     </url>
     
     <url>
-        <loc>http://snirp.nl/contact</loc>
+        <loc>http://flatfreeze.com/contact.html</loc>
         <lastmod>2014-02-13</lastmod>
     </url>
     
     <url>
-        <loc>http://snirp.nl/blog/</loc>
+        <loc>http://flatfreeze.com/blog/index.html</loc>
         <lastmod>2014-02-13</lastmod>
     </url>
     
     <url>
-        <loc>http://snirp.nl/blog/atom.xml</loc>
+        <loc>http://flatfreeze.com/blog/atom.xml</loc>
         <lastmod>2014-02-15</lastmod>
     </url>
     
     <url>
-        <loc>http://snirp.nl/tips/</loc>
+        <loc>http://flatfreeze.com/tip/index.html</loc>
         <lastmod>2014-02-13</lastmod>
     </url>
     
     <url>
-        <loc>http://snirp.nl/tips/atom.xml</loc>
+        <loc>http://flatfreeze.com/tip/atom.xml</loc>
         <lastmod>2014-02-15</lastmod>
     </url>
     
     <url>
-        <loc>http://snirp.nl/blog/something-something</loc>
+        <loc>http://flatfreeze.com/blog/something-something.html</loc>
         <lastmod>2014-02-17</lastmod>
     </url>
     
     <url>
-        <loc>http://snirp.nl/blog/example-blog-posting</loc>
+        <loc>http://flatfreeze.com/blog/example-blog-posting.html</loc>
         <lastmod>2014-02-20</lastmod>
     </url>
     
     <url>
-        <loc>http://snirp.nl/blog/this-is-the-oldest</loc>
+        <loc>http://flatfreeze.com/blog/this-is-the-oldest.html</loc>
         <lastmod>2013-06-14</lastmod>
     </url>
     
     <url>
-        <loc>http://snirp.nl/tips/something-something</loc>
+        <loc>http://flatfreeze.com/tip/something-something.html</loc>
         <lastmod>2014-02-17</lastmod>
     </url>
     
     <url>
-        <loc>http://snirp.nl/tips/example-blog-posting</loc>
+        <loc>http://flatfreeze.com/tip/example-blog-posting.html</loc>
         <lastmod>2014-02-20</lastmod>
     </url>
     
     <url>
-        <loc>http://snirp.nl/tips/this-is-the-oldest</loc>
+        <loc>http://flatfreeze.com/tip/this-is-the-oldest.html</loc>
         <lastmod>2013-06-14</lastmod>
     </url>
     
